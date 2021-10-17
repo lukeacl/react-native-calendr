@@ -5,6 +5,9 @@
   "main": "calendr.js",
   "homepage": "https://github.com/naeemur/react-native-wheel-color-picker#readme",
   "license": "MIT",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/lukeacl/react-native-calendr"
