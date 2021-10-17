@@ -1,6 +1,6 @@
 {
   "name": "react-native-calendr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A calendar component for react native",
   "main": "calendr.js",
   "homepage": "https://github.com/naeemur/react-native-wheel-color-picker#readme",
